@@ -37,9 +37,7 @@ Generate captions for images using the BLIP model and translate them into variou
 
 ## 🔍 Preview - Image Upload Section
 
-![Upload Preview](https://github.com/ajaykumards/image-caption-generator/raw/main/screenshots/img_url_uploader.png)
-
-![Translation Result Preview](https://yourdomain.com/images/translation_preview.png)
+![image_alt](https://github.com/Ajaykumards/Image_Caption_Generator/blob/7a077b827621f9c97147b587f1e314c94b106208/img_url_uploader.png)
 
 
 ---

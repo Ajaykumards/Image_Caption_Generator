@@ -13,6 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 </div>
 
+# Image Upload Section Preview
+![image_alt](https://github.com/Ajaykumards/Image_Caption_Generator/blob/d272db584b258dd013105ee895a4a3b3f786da01/img_url_uploader.png)
+![image_alt]()
 ---
 
 ### 📈 GitHub Contribution Graph

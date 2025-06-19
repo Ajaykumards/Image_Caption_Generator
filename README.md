@@ -17,9 +17,9 @@
 
 ---
 
-### 📈 GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/ajaykumards)
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
 
 ---
 
